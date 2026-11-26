@@ -1,4 +1,3 @@
-
 =======
 Victor Manuel Castillo López
 Hola, Soy Anette Guadalupe Quiroz Cruz 21580058
@@ -9,7 +8,7 @@ Hugo Eduardo Tello Estrada
 Roberto Elí Badillo Mendoza
 Hernandez Aldama Samuel
 Reynaldo Javier Perez Juarez
-Edith Piña Portillo 
+Edith Piña Portillo
 Juan Jose Carrizalez Alvarez
 David Chavez Gutierrez
 Victor Santiago Gonzálezzz
@@ -25,4 +24,6 @@ Jackeline Suzett Martinez Helmcke Herrera (21580834)
 José Armando Martínez Martínez 21580048
 Lisset Isidro Sanchez
 Lizeth Adriana Popo Zapata 21580055
+
+Antonio Alarcon Figueroa 22580095
 
